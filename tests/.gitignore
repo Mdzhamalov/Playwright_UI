@@ -80,7 +80,7 @@ venv.bak/
 
 # Pyre type checker
 .pyre/
-.idea/
+../.idea/
 .DS_Store
 /Screenshots
 qaseio.lock
